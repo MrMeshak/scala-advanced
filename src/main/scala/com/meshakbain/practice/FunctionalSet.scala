@@ -84,7 +84,7 @@ object FSet {
   }
 }
 
-object FunctiionalSetPlayground {
+object FunctiionalSet {
 
   def main(args: Array[String]) = {
     val first5 = FSet(1,2,3,4,5)

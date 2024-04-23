@@ -14,5 +14,6 @@ object PartialFunctions {
     case 2 => 56
     case 5 => 999
   }
+
   def main(args: Array[String]) = {}
 }
